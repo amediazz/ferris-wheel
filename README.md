@@ -5,5 +5,5 @@
 <li>To use css to animate elements</li>
 <li>To transforme elements</li>
 <li>To ajust their speed</li>
-<li>You can perview the project <a href="#">here</a></li>
+<li>You can preview the project <a href="#">here</a></li>
 </ul>
